@@ -37,6 +37,7 @@ public:
         videoWindow = new QWidget(qtoverlay);
         videoWindow->setObjectName(QString::fromUtf8("videoWindow"));
         videoWindow->setGeometry(QRect(50, 40, 771, 441));
+        videoWindow->setToolTipDuration(-2);
         layoutWidget = new QWidget(qtoverlay);
         layoutWidget->setObjectName(QString::fromUtf8("layoutWidget"));
         layoutWidget->setGeometry(QRect(50, 497, 771, 27));
