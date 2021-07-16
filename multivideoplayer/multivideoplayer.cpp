@@ -152,8 +152,10 @@ void MultiVideoPlayer::play()
         player = playerList->value(i);
         if(video && player){
             player->setVideoOutput(video);
+
             video->show();
             player->play();
+
         }
     }
 
@@ -199,37 +201,40 @@ void MultiVideoPlayer::exit()
 }
 void MultiVideoPlayer::next()
 {
-//    video = videoList->value(0);
-//    player = playerList->value(0);
-//    if(video && player){
-//        player->setVideoOutput(video);
-//        video->hide();
-//        player->stop();
-//    }
-
-    flag++;
-    if(flag > 3)
+    if(++flag > 3)
         flag = 0;
+
     video = videoList->value(flag);
     player = playerList->value(flag);
+
     if(video && player){
-        player->setVideoOutput(video);
-        video->show();
-        player->play();
+    video->show();
     }
+
 
     for(int i=0; i<urlList.count(); i++){
         if(i != flag){
             video = videoList->value(i);
             video->hide();
-            player->stop();
             }
      }
 
 }
 void MultiVideoPlayer::back()
 {
-
+    if(--flag < 0)
+        flag = 3;
+    video = videoList->value(flag);
+    player = playerList->value(flag);
+    if(video && player){
+        video->show();
+    }
+    for(int i=0; i<urlList.count(); i++){
+        if(i != flag){
+            video = videoList->value(i);
+            video->hide();
+            }
+     }
 
 }
 
