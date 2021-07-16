@@ -86,6 +86,20 @@ int main(int argc, char *argv[])
   GstElement *vpuDecode = gst_element_factory_make("mppvideodec",NULL);
   GstElement *waySink = gst_element_factory_make("waylandsink",NULL);
 
+  Widget window;
+  //window.resize(960, 800);
+
+
+  WId xwinid = window.winId();
+  qDebug()<<"get***"<<xwinid;
+  QApplication::sync();
+  //gst_video_overlay_expose(GST_VIDEO_OVERLAY(waySink));
+  gst_video_overlay_set_window_handle (GST_VIDEO_OVERLAY (waySink), guintptr(xwinid));
+
+  window.setGeometry(10,10,960,600);
+  window.setWindowTitle("test1111111111111");
+  window.show();
+
   //GstElement *sink = gst_element_factory_make ("xvimagesink", NULL);
 
   if( !pipeline || !appSrc || !rtpDepay || !rtph265Parse || !vpuDecode  || !waySink )
@@ -114,24 +128,15 @@ int main(int argc, char *argv[])
 //  gst_element_link (src, sink);
 
   // prepare the ui
-
-  Widget window;
-  //window.resize(960, 800);
-  window.setGeometry(10,10,960,600);
-  //window.setWindowTitle("test1111111111111");
-  window.show();
-
-  WId xwinid = window.winId();
-  qDebug()<<"get***"<<xwinid;
-  //gst_video_overlay_expose(GST_VIDEO_OVERLAY(waySink));
-  //gst_video_overlay_set_window_handle (GST_VIDEO_OVERLAY (waySink), guintptr(xwinid));
-
+//
+//
+#if 0
   if(! gst_video_overlay_set_render_rectangle (GST_VIDEO_OVERLAY (waySink),100,100,600,600))
   {
       g_warning ("gst_video_overlay_set_render_rectangle Fail...");
 
   }
-
+#endif
   // run the pipeline
 
   GstStateChangeReturn sret = gst_element_set_state (pipeline,

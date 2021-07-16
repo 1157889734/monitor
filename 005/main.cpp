@@ -37,35 +37,36 @@ int main(int argc, char *argv[])
   // prepare the pipeline
   GstElement *pipeline = gst_parse_launch ("playbin uri=file:///userdata/11.mp4", NULL);
   GstElement *vsink = gst_element_factory_make ("waylandsink", "vsink");
-
-
-//   gst_bin_add_many (GST_BIN (pipeline), vsink, NULL);
   // prepare the ui
   PlayerWindow *window = new PlayerWindow(pipeline);
+
   window->setGeometry(10,30,960,600);
   window->setWindowTitle("qtoverlay");
 //  window->resize(900, 600);
   window->show();
 
-
-// GstBus *testbus = gst_pipeline_get_bus (GST_PIPELINE (pipeline));
-//  gst_bus_set_sync_handler (testbus, (GstBusSyncHandler) create_window, pipeline,
-//        NULL);
   // seg window id to gstreamer
 
+//
+//  QApplication::sync();
+//  WId winId = QApplication::activeWindow()->effectiveWinId();
+//  gst_video_overlay_set_window_handle(GST_VIDEO_OVERLAY(vsink),winId);
 
+  QApplication::sync();
   WId xwinid = window->getVideoWId();
-//  gst_video_overlay_set_window_handle (GST_VIDEO_OVERLAY (vsink), xwinid);
+  gst_video_overlay_set_window_handle (GST_VIDEO_OVERLAY (vsink), xwinid);
   g_object_set(GST_OBJECT(pipeline), "video-sink", vsink, NULL);
-
-//    gst_video_overlay_expose(GST_VIDEO_OVERLAY (vsink));
-//    gst_video_overlay_prepare_window_handle(GST_VIDEO_OVERLAY (vsink));
+  //
   if(! gst_video_overlay_set_render_rectangle (GST_VIDEO_OVERLAY (vsink),10,40,900,600))
   {
       g_warning ("gst_video_overlay_set_render_rectangle Fail...");
 
   }
-    gst_video_overlay_expose(GST_VIDEO_OVERLAY(vsink));
+
+//    gst_video_overlay_expose(GST_VIDEO_OVERLAY (vsink));
+//    gst_video_overlay_prepare_window_handle(GST_VIDEO_OVERLAY (vsink));
+
+//    gst_video_overlay_expose(GST_VIDEO_OVERLAY(vsink));
 
   // connect to interesting signals
   GstBus *bus = gst_element_get_bus(pipeline);
