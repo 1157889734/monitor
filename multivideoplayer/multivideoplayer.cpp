@@ -157,9 +157,13 @@ void MultiVideoPlayer::play()
             player->play();
 
         }
+        if(i == 0)
+            video->show();
+        else
+            video->hide();
+
     }
 
-    qDebug()<<"****11111"<<videoList<<endl;
 
 }
 
