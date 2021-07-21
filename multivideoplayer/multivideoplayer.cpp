@@ -65,14 +65,22 @@ MultiVideoPlayer::MultiVideoPlayer(QStringList list)
     urlList = list;
 
     exitButton = new QPushButton(tr("Exit"));
+    exitButton->setFont(QFont("宋体",18));
     connect(exitButton, &QAbstractButton::clicked, this, &MultiVideoPlayer::exit);
 
     nextButton = new QPushButton(tr("next"));
+    nextButton->setFont(QFont("宋体",18));
     connect(nextButton, &QAbstractButton::clicked, this, &MultiVideoPlayer::next);
 
 
     backButton = new QPushButton(tr("back"));
+    backButton->setFont(QFont("宋体",18));
     connect(backButton, &QAbstractButton::clicked, this, &MultiVideoPlayer::back);
+
+    returnButton = new QPushButton(tr("return"));
+    returnButton->setFont(QFont("宋体",18));
+    connect(returnButton, &QAbstractButton::clicked, this, &MultiVideoPlayer::change_to);
+
 
 
     if(urlList.count() > 0){
@@ -124,11 +132,18 @@ MultiVideoPlayer::MultiVideoPlayer(QStringList list)
         widget->setLayout(hLayoutList->value(i));
         mainLayout->addWidget(widget);
     }
-    mainLayout->addWidget(exitButton);
-    mainLayout->addWidget(nextButton);
-    mainLayout->addWidget(backButton);
 
+    QHBoxLayout *VmainLayout = new QHBoxLayout();
 
+    VmainLayout->addWidget(exitButton);
+    VmainLayout->addWidget(nextButton);
+    VmainLayout->addWidget(backButton);
+    VmainLayout->addWidget(returnButton);
+//    mainLayout->addWidget(exitButton);
+//    mainLayout->addWidget(nextButton);
+//    mainLayout->addWidget(backButton);
+
+    mainLayout->addLayout(VmainLayout);
     QWidget *widget = new QWidget();
     widget->setLayout(mainLayout);
 
@@ -241,6 +256,16 @@ void MultiVideoPlayer::back()
      }
 
 }
+void MultiVideoPlayer::change_to()
+{
+    for(int i=0; i<urlList.count(); i++){
+        video = videoList->value(i);
+        player = playerList->value(i);
+        if(video && player){
+            video->show();
+        }
+    }
 
+}
 
 

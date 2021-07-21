@@ -82,6 +82,7 @@ private slots:
     void exit();
     void next();
     void back();
+    void change_to();
 
 public:
    QStringList rtspList;
@@ -97,6 +98,8 @@ private:
     QAbstractButton *exitButton;
     QAbstractButton *nextButton;
     QAbstractButton *backButton;
+    QAbstractButton *returnButton;
+
      QVideoWidget *video;
        QMediaPlayer *player;
     QVideoWidget *newvideo;

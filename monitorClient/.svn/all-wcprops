@@ -1,0 +1,755 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient
+END
+pmsgcli.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/pmsgcli.c
+END
+editTraintypeWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/editTraintypeWidget.h
+END
+loginPageKeyboardWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/loginPageKeyboardWidget.h
+END
+pvmsMonitorWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/pvmsMonitorWidget.cpp
+END
+cvmsMenuWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/cvmsMenuWidget.cpp
+END
+localSet.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/localSet.ui
+END
+recordPlayWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/recordPlayWidget.ui
+END
+pmsgcli.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/pmsgcli.h
+END
+alarmWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/alarmWidget.h
+END
+netmaskpartlineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/netmaskpartlineedit.cpp
+END
+loginWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/loginWidget.ui
+END
+pvmsMenuWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/pvmsMenuWidget.ui
+END
+commonInputMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/commonInputMethod.cpp
+END
+MyApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/MyApplication.cpp
+END
+fileConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/fileConfig.h
+END
+mupushbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/mupushbutton.cpp
+END
+recordPlayWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/recordPlayWidget.h
+END
+cvmsMonitorWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/cvmsMonitorWidget.ui
+END
+userEdit.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/userEdit.ui
+END
+loginWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/loginWidget.h
+END
+userAdd.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/userAdd.ui
+END
+editTraintypeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/editTraintypeWidget.ui
+END
+devupdateofcarriages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/devupdateofcarriages.cpp
+END
+addTraintypeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/addTraintypeWidget.ui
+END
+editTraintypeWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/editTraintypeWidget.cpp
+END
+cvmsMonitorWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/cvmsMonitorWidget.h
+END
+monitorClient_Yunda.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/monitorClient_Yunda.qrc
+END
+userEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/userEdit.h
+END
+setcarriagesnumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/setcarriagesnumber.h
+END
+choiceLoginDevWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/choiceLoginDevWidget.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/debug.h
+END
+choiceCarriageWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/choiceCarriageWidget.cpp
+END
+presetPasswdConfirm.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/presetPasswdConfirm.ui
+END
+mycheckbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/mycheckbox.h
+END
+addTraintypeWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/addTraintypeWidget.h
+END
+localsetPasswdConfirm.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/localsetPasswdConfirm.ui
+END
+timeset.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/timeset.ui
+END
+fileConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/fileConfig.cpp
+END
+localSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/localSet.cpp
+END
+pvmsMenuWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/pvmsMenuWidget.cpp
+END
+setcarriagesnumber.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/setcarriagesnumber.ui
+END
+recplaybackofcarriages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/recplaybackofcarriages.ui
+END
+CMPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/CMPlayer.h
+END
+userManage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/userManage.ui
+END
+commonKeyboardWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/commonKeyboardWidget.h
+END
+ftpApi.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/ftpApi.c
+END
+setcarriagesnumber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/setcarriagesnumber.cpp
+END
+loginPageKeyboardWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/loginPageKeyboardWidget.ui
+END
+loginPageInputMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/loginPageInputMethod.cpp
+END
+devManageWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/devManageWidget.ui
+END
+iplineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/iplineedit.cpp
+END
+choiceCarriageWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/choiceCarriageWidget.ui
+END
+mySlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/mySlider.cpp
+END
+ftpApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/ftpApi.h
+END
+userAdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/userAdd.h
+END
+choiceCarriageWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/choiceCarriageWidget.h
+END
+presetPasswdConfirm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/presetPasswdConfirm.cpp
+END
+devmanageofcarriages.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/devmanageofcarriages.h
+END
+waitLoginWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/waitLoginWidget.h
+END
+gb2312_utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/gb2312_utf8.c
+END
+localsetPasswdConfirm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/localsetPasswdConfirm.cpp
+END
+commonKeyboardWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/6244/projects/P31/trunk/M1/monitorClient/commonKeyboardWidget.ui
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/types.h
+END
+timeset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/timeset.cpp
+END
+localSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/localSet.h
+END
+gb2312_utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/gb2312_utf8.h
+END
+commonKeyboardWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/commonKeyboardWidget.cpp
+END
+netmasklineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/netmasklineedit.cpp
+END
+state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/state.cpp
+END
+choiceLoginDevWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/choiceLoginDevWidget.ui
+END
+monitorClient_Yunda.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/monitorClient_Yunda.pro.user
+END
+ippartlineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/ippartlineedit.h
+END
+devupdateofcarriages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/devupdateofcarriages.ui
+END
+pvmsMenuWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/pvmsMenuWidget.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/main.cpp
+END
+rs485serv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/rs485serv.c
+END
+recplaybackofcarriages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/recplaybackofcarriages.cpp
+END
+userAdd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/userAdd.cpp
+END
+inteAnalyWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/inteAnalyWidget.cpp
+END
+devmanageofcarriages.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/devmanageofcarriages.ui
+END
+devUpdateWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/devUpdateWidget.h
+END
+loginPageKeyboardWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/loginPageKeyboardWidget.cpp
+END
+rs485serv.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/softgroup/!svn/ver/6124/projects/P31/trunk/M1/monitorClient/rs485serv.h
+END
+iplineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/iplineedit.h
+END
+loginPageInputMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/loginPageInputMethod.h
+END
+userManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/userManage.h
+END
+waitLoginWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/waitLoginWidget.ui
+END
+devmanageofcarriages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/devmanageofcarriages.cpp
+END
+mySlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/mySlider.h
+END
+alarmWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/alarmWidget.cpp
+END
+devManageWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/devManageWidget.h
+END
+waitLoginWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/waitLoginWidget.cpp
+END
+monitorClient_Yunda.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/monitorClient_Yunda.pro
+END
+cvmsMenuWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/cvmsMenuWidget.h
+END
+pvmsMonitorWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/pvmsMonitorWidget.h
+END
+presetPasswdConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/presetPasswdConfirm.h
+END
+recordPlayWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/recordPlayWidget.cpp
+END
+localsetPasswdConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/localsetPasswdConfirm.h
+END
+loginWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/loginWidget.cpp
+END
+netmaskpartlineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/netmaskpartlineedit.h
+END
+ippartlineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/ippartlineedit.cpp
+END
+MyApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/softgroup/!svn/ver/6075/projects/P31/trunk/M1/monitorClient/MyApplication.h
+END
+commonInputMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/commonInputMethod.h
+END
+timeset.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/timeset.h
+END
+devUpdateWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/devUpdateWidget.ui
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/log.c
+END
+inteAnalyWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/inteAnalyWidget.ui
+END
+cvmsMonitorWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/cvmsMonitorWidget.cpp
+END
+userEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/userEdit.cpp
+END
+devUpdateWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/devUpdateWidget.cpp
+END
+netmasklineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/netmasklineedit.h
+END
+state.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/state.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/log.h
+END
+choiceLoginDevWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/choiceLoginDevWidget.cpp
+END
+mypushbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/mypushbutton.h
+END
+userManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/userManage.cpp
+END
+alarmWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/alarmWidget.ui
+END
+devManageWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/devManageWidget.cpp
+END
+recplaybackofcarriages.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/recplaybackofcarriages.h
+END
+devupdateofcarriages.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/devupdateofcarriages.h
+END
+addTraintypeWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/softgroup/!svn/ver/6123/projects/P31/trunk/M1/monitorClient/addTraintypeWidget.cpp
+END
+cvmsMenuWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/cvmsMenuWidget.ui
+END
+mycheckbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/mycheckbox.cpp
+END
+pvmsMonitorWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/softgroup/!svn/ver/6191/projects/P31/trunk/M1/monitorClient/pvmsMonitorWidget.ui
+END
+inteAnalyWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/inteAnalyWidget.h
+END

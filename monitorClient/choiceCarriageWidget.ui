@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>choicecarriages</class>
+ <widget class="QWidget" name="choicecarriages">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>768</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(17, 168, 232);</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>292</x>
+     <y>274</y>
+     <width>441</width>
+     <height>221</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#label {
+background-color: rgb(255, 255, 255);
+}
+#label *{
+background-color: rgb();
+}</string>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;车型设置:&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;车厢号:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>350</y>
+     <width>91</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(218, 222, 224);</string>
+   </property>
+   <item>
+    <property name="text">
+     <string>CRH1A</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>CRH1B</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>CRH1E</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>CRH2A</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>CRH2B</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>CRH380D</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>CRH380A</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>430</y>
+     <width>81</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(38, 158, 230);</string>
+   </property>
+   <property name="text">
+    <string>确认</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_2">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>390</y>
+     <width>91</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 255, 255);</string>
+   </property>
+   <item>
+    <property name="text">
+     <string>1号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>2号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>3号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>4号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>5号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>6号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>7号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>8号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>9号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>10号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>11号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>12号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>13号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>14号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>15号车厢</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>16号车厢</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

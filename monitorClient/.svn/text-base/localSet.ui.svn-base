@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>localSet</class>
+ <widget class="QWidget" name="localSet">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>525</width>
+    <height>371</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>525</width>
+     <height>371</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#frame{
+background-color: rgb(240, 240, 240);
+border-color: rgb(184, 180, 176);
+	border-width: 1px;
+	border-style: solid;
+}</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="confirmPushButton">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>330</y>
+      <width>99</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(0, 0, 0);
+background-image: url(:/res/anniubk.png);
+border-color: rgb(33, 131, 229);
+border-width: 1px;
+border-style: solid;</string>
+    </property>
+    <property name="text">
+     <string>确定</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>1</x>
+      <y>1</y>
+      <width>523</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(88, 124, 224);
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string> 本地设置</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="closePushButton">
+    <property name="geometry">
+     <rect>
+      <x>498</x>
+      <y>2</y>
+      <width>23</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/res/close.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>48</x>
+      <y>50</y>
+      <width>431</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="timeSetTab">
+     <attribute name="title">
+      <string>时间设置</string>
+     </attribute>
+     <widget class="QLabel" name="timeSetLabel">
+      <property name="geometry">
+       <rect>
+        <x>48</x>
+        <y>87</y>
+        <width>76</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>时间设置 :</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="timeSetPushButton">
+      <property name="geometry">
+       <rect>
+        <x>360</x>
+        <y>80</y>
+        <width>27</width>
+        <height>27</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border-image: url(:/res/time_set.png);
+background-color: rgb(240, 240, 240);</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QLabel" name="timeLabel">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>80</y>
+        <width>211</width>
+        <height>27</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+border-color: rgb(184, 180, 176);
+	border-width: 1px;
+	border-style: solid;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="netSetTab">
+     <attribute name="title">
+      <string>网络设置</string>
+     </attribute>
+     <widget class="QLabel" name="ipAddrLabel">
+      <property name="geometry">
+       <rect>
+        <x>122</x>
+        <y>34</y>
+        <width>56</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>IP地址 :</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="netMaskLabel">
+      <property name="geometry">
+       <rect>
+        <x>104</x>
+        <y>87</y>
+        <width>76</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>子网掩码 :</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="gateWayLabel">
+      <property name="geometry">
+       <rect>
+        <x>104</x>
+        <y>140</y>
+        <width>76</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>默认网关 :</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="trainTypeSetTab">
+     <attribute name="title">
+      <string>车型设置</string>
+     </attribute>
+     <widget class="QTableWidget" name="trainTypeTableWidget">
+      <property name="geometry">
+       <rect>
+        <x>55</x>
+        <y>10</y>
+        <width>321</width>
+        <height>178</height>
+       </rect>
+      </property>
+      <attribute name="verticalHeaderVisible">
+       <bool>false</bool>
+      </attribute>
+      <column>
+       <property name="text">
+        <string>序号</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>车型类别</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QPushButton" name="trainTypeEditPushButton">
+      <property name="geometry">
+       <rect>
+        <x>180</x>
+        <y>200</y>
+        <width>71</width>
+        <height>27</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(0, 0, 0);border:none;border-radius:5px;background-color: rgb(94, 135, 205);</string>
+      </property>
+      <property name="text">
+       <string>修改</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="blackScreenSetTab">
+     <attribute name="title">
+      <string>使能设置</string>
+     </attribute>
+     <widget class="QLabel" name="blackScreenSetLabel">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>80</y>
+        <width>81</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>黑屏使能 :</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="blackScreenSetCheckBox">
+      <property name="geometry">
+       <rect>
+        <x>230</x>
+        <y>78</y>
+        <width>97</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>开启</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>100</x>
+        <y>120</y>
+        <width>111</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>遮挡报警使能 :</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="shadeAlarmCheckBox">
+      <property name="geometry">
+       <rect>
+        <x>230</x>
+        <y>118</y>
+        <width>97</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>开启</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="pisServerSetTab">
+     <attribute name="title">
+      <string>PIS设置</string>
+     </attribute>
+     <widget class="QPushButton" name="stationConfigExportPushButton">
+      <property name="geometry">
+       <rect>
+        <x>140</x>
+        <y>200</y>
+        <width>151</width>
+        <height>27</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(0, 0, 0);border:none;border-radius:5px;
+background-color: rgb(94, 135, 205);</string>
+      </property>
+      <property name="text">
+       <string>站代码配置文件导出</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="pisIpAddrLabel">
+      <property name="geometry">
+       <rect>
+        <x>122</x>
+        <y>68</y>
+        <width>56</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>IP地址 :</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="pisPortLabel">
+      <property name="geometry">
+       <rect>
+        <x>120</x>
+        <y>134</y>
+        <width>56</width>
+        <height>17</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>端口号 :</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="pisServerPortLineEdit">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>130</y>
+        <width>132</width>
+        <height>29</height>
+       </rect>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="canclePushButton">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>330</y>
+      <width>99</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(0, 0, 0);
+background-image: url(:/res/anniubk.png);
+border-color: rgb(33, 131, 229);
+border-width: 1px;
+border-style: solid;</string>
+    </property>
+    <property name="text">
+     <string>取消</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

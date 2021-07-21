@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release
+END
+ui_cvmsMenuWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_cvmsMenuWidget.h
+END
+ui_waitLoginWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_waitLoginWidget.h
+END
+moc_recordPlayWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_recordPlayWidget.cpp
+END
+qrc_c3client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/qrc_c3client.cpp
+END
+moc_ippartlineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_ippartlineedit.cpp
+END
+ui_commonKeyboardWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_commonKeyboardWidget.h
+END
+moc_userEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_userEdit.cpp
+END
+moc_choiceLoginDevWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_choiceLoginDevWidget.cpp
+END
+moc_userManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_userManage.cpp
+END
+ui_cvmsMonitorWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_cvmsMonitorWidget.h
+END
+ui_devUpdateWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_devUpdateWidget.h
+END
+ui_recplaybackofcarriages.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_recplaybackofcarriages.h
+END
+moc_addTraintypeWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_addTraintypeWidget.cpp
+END
+moc_mycheckbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_mycheckbox.cpp
+END
+qrc_monitorClient_Yunda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/qrc_monitorClient_Yunda.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/Makefile
+END
+ui_devManageWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_devManageWidget.h
+END
+ui_choiceCarriageWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_choiceCarriageWidget.h
+END
+ui_devmanageofcarriages.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_devmanageofcarriages.h
+END
+moc_cvmsMenuWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_cvmsMenuWidget.cpp
+END
+moc_presetPasswdConfirm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_presetPasswdConfirm.cpp
+END
+ui_presetPasswdConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_presetPasswdConfirm.h
+END
+moc_localsetPasswdConfirm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_localsetPasswdConfirm.cpp
+END
+ui_localSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_localSet.h
+END
+moc_timeset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_timeset.cpp
+END
+ui_timeset.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_timeset.h
+END
+moc_netmasklineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_netmasklineedit.cpp
+END
+moc_mypushbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_mypushbutton.cpp
+END
+moc_userAdd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_userAdd.cpp
+END
+moc_devupdateofcarriages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_devupdateofcarriages.cpp
+END
+ui_presetPasswd.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_presetPasswd.h
+END
+moc_inteAnalyWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_inteAnalyWidget.cpp
+END
+ui_setcarriagesnumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_setcarriagesnumber.h
+END
+moc_loginPageKeyboardWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_loginPageKeyboardWidget.cpp
+END
+ui_inteAnalyWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_inteAnalyWidget.h
+END
+moc_choiceCarriageWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_choiceCarriageWidget.cpp
+END
+ui_editTraintypeWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_editTraintypeWidget.h
+END
+ui_loginPageKeyboardWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_loginPageKeyboardWidget.h
+END
+ui_addTraintypeWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_addTraintypeWidget.h
+END
+moc_alarmWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_alarmWidget.cpp
+END
+moc_waitLoginWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_waitLoginWidget.cpp
+END
+ui_alarmWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_alarmWidget.h
+END
+moc_localSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_localSet.cpp
+END
+mornitorapp.exe
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/mornitorapp.exe
+END
+moc_loginWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_loginWidget.cpp
+END
+moc_pvmsMenuWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_pvmsMenuWidget.cpp
+END
+ui_loginWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_loginWidget.h
+END
+moc_cvmsMonitorWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_cvmsMonitorWidget.cpp
+END
+moc_setcarriagesnumber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_setcarriagesnumber.cpp
+END
+moc_devUpdateWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_devUpdateWidget.cpp
+END
+moc_iplineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_iplineedit.cpp
+END
+moc_loginPageInputMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_loginPageInputMethod.cpp
+END
+moc_mySlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_mySlider.cpp
+END
+ui_devupdateofcarriages.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_devupdateofcarriages.h
+END
+moc_devManageWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_devManageWidget.cpp
+END
+moc_pvmsMonitorWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_pvmsMonitorWidget.cpp
+END
+ui_pvmsMonitorWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_pvmsMonitorWidget.h
+END
+moc_netmaskpartlineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_netmaskpartlineedit.cpp
+END
+moc_commonInputMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_commonInputMethod.cpp
+END
+moc_MyApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_MyApplication.cpp
+END
+ui_localsetPasswdConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_localsetPasswdConfirm.h
+END
+ui_recordPlayWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_recordPlayWidget.h
+END
+moc_commonKeyboardWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_commonKeyboardWidget.cpp
+END
+ui_pvmsMenuWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_pvmsMenuWidget.h
+END
+moc_recplaybackofcarriages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_recplaybackofcarriages.cpp
+END
+monitorClient.exe
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/softgroup/!svn/ver/5975/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/monitorClient.exe
+END
+ui_userEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_userEdit.h
+END
+moc_editTraintypeWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_editTraintypeWidget.cpp
+END
+ui_choiceLoginDevWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_choiceLoginDevWidget.h
+END
+ui_userAdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_userAdd.h
+END
+ui_userManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/ui_userManage.h
+END
+moc_devmanageofcarriages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/softgroup/!svn/ver/6268/projects/P31/trunk/M1/monitorClient/build-c3client-Desktop_Qt_4_8_1_GCC_32bit-Release/moc_devmanageofcarriages.cpp
+END
